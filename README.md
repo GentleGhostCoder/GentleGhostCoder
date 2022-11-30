@@ -45,7 +45,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="mailto:mail@semjon-geist.de"><img alt="Email" src="https://img.shields.io/badge/-34495e.svg?colorA=34495e&logo=gmail&label=mail@semjon-geist.de"></a>
 </p>
 
