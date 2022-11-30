@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Semjon Geist.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -44,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:mail@semjon-geist.de"><img alt="Email" src="https://img.shields.io/badge/Email-mail@semjon-geist.de-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mail@semjon-geist.de"><img alt="Email" src="https://img.shields.io/badge/-34495e.svg?colorA=34495e&logo=gmail&label=mail@semjon-geist.de"></a>
 </p>
 
 ⭐️ From [semmjon](https://github.com/semmjon)
