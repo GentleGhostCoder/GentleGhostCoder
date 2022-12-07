@@ -51,7 +51,8 @@
 
 <p align="left">
 <a href="mailto:mail@semjon-geist.de"><img alt="Email" src="https://img.shields.io/badge/-333333.svg?colorA=333333&logo=gmail&label=mail@semjon-geist.de"></a>
- [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/710799214812069969)
 </p>
+
+ [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/710799214812069969)
 
 ⭐️ From [semmjon](https://github.com/semmjon)
