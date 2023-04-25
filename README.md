@@ -38,9 +38,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/semmjon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=semmjon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=semmjon&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/sgeist-ionos">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sgeist-ionos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sgeist-ionos&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -54,4 +54,4 @@
 
  [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/710799214812069969)
 
-⭐️ From [semmjon](https://github.com/semmjon)
+⭐️ From [sgeist-ionos](https://github.com/sgeist-ionos)
