@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions in the big IT world of data.
-- 🎓 &nbsp; Studying Computer Science at the Karlsruhe Institute of Technology.
 - 💼 &nbsp; I work as a software developer and data engineer at CLOUD provider IONOS SE.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
