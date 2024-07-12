@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions in the big IT world of data.
-- 💼 &nbsp; I work as a software developer and data engineer at CLOUD provider IONOS SE.
+- 💼 &nbsp; I work as a software developer and cloud data engineer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
