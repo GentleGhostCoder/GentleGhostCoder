@@ -59,23 +59,11 @@
 
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/GentleGhostCoder">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GentleGhostCoder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GentleGhostCoder&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
 <a href="https://semjon-geist.de"><img alt="Website" src="https://img.shields.io/badge/-semjon--geist.de-333333?style=flat&logo=google-chrome&logoColor=white"></a>
 <a href="mailto:mail@semjon-geist.de"><img alt="Email" src="https://img.shields.io/badge/-mail@semjon--geist.de-333333?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://discordapp.com/users/710799214812069969"><img alt="Discord" src="https://img.shields.io/badge/-Discord-333333?style=flat&logo=discord&logoColor=white"></a>
 </p>
 
 ⭐️ From [GentleGhostCoder](https://github.com/GentleGhostCoder)
