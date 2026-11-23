@@ -16,7 +16,6 @@ I build sovereign platforms and data infrastructure on open-source stacks, mostl
 |---|---|
 | Languages | Python · TypeScript · C++ · R |
 | Platform | Kubernetes · Terraform · Helm |
-| Data | PostgreSQL · Kafka · Airflow |
 | Infrastructure | On-premise · Hetzner (and other cloud providers) |
 
 ### 🤝 Contact
