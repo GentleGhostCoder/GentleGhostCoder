@@ -20,4 +20,6 @@ I build sovereign platforms and data infrastructure on open-source stacks, mostl
 
 ### 🤝 Contact
 
+Open for consulting projects, remote or in the Karlsruhe area. Working in German and English.
+
 [semjon-geist.de](https://semjon-geist.de) · [LinkedIn](https://www.linkedin.com/in/semjon-geist-b58703175/) · [semjon.geist@chronolite.tech](mailto:semjon.geist@chronolite.tech)
