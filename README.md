@@ -1,11 +1,26 @@
-### Hi, I'm Semjon 👋
+## Hi, I'm Semjon 👋
 
 Independent software consultant and cloud-native platform engineer in Karlsruhe, Germany.
-I build multi-cluster Kubernetes platforms (ArgoCD, Helm, GitOps), data pipelines (Airflow, ETL) and full-stack web apps (Nuxt, Vue, TypeScript).
-Currently: multi-cluster GitOps architectures and applied AI.
 
-**Earlier open source:** [cornflakes](https://github.com/GentleGhostCoder/cornflakes) (typed config management for Python) · [R-zlib](https://github.com/GentleGhostCoder/R-zlib) (in-memory zlib streaming for R)
+### 🎯 What I do
 
-**Stack:** Python · TypeScript · Kubernetes · ArgoCD · Helm · Terraform · Airflow · PostgreSQL · Kafka · AWS · Hetzner · STACKIT
+- **Platform Engineering:** multi-cluster Kubernetes platforms with ArgoCD, Helm and GitOps
+- **Data Engineering:** ETL pipelines, data platform architecture, Apache Airflow
+- **Full-Stack Development:** web applications with Nuxt, Vue and TypeScript
+- **MLOps & AI:** ML platforms, model registries, on-device inference
+- **Cloud Architecture:** Infrastructure-as-Code with Terraform on AWS, Hetzner and STACKIT
 
-**Contact:** [semjon-geist.de](https://semjon-geist.de) · [LinkedIn](https://www.linkedin.com/in/semjon-geist-b58703175/) · [semjon.geist@chronolite.tech](mailto:semjon.geist@chronolite.tech)
+🌱 Currently deep-diving into multi-cluster GitOps architectures and applied AI.
+
+### 🛠 Tech stack
+
+| Area | Tools |
+|---|---|
+| Languages | Python · TypeScript · C++ · R |
+| Platform | Kubernetes · ArgoCD · Helm · Terraform · Docker · Ansible |
+| Data | PostgreSQL · Kafka · Airflow · Elasticsearch · S3 / MinIO |
+| Cloud | AWS · Hetzner · STACKIT · Cloudflare |
+
+### 🤝 Contact
+
+[semjon-geist.de](https://semjon-geist.de) · [LinkedIn](https://www.linkedin.com/in/semjon-geist-b58703175/) · [semjon.geist@chronolite.tech](mailto:semjon.geist@chronolite.tech)
