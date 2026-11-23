@@ -1,11 +1,11 @@
 ## Hi, I'm Semjon 👋
 
 Independent software consultant in Karlsruhe, Germany.
-I design and run cloud-native platforms and data infrastructure, from the Kubernetes cluster to the application on top.
+I build sovereign platforms and data infrastructure on open-source stacks, mostly on-premise: from the Kubernetes cluster to the application on top.
 
 ### 🎯 What I do
 
-- **Platform Engineering:** multi-cluster Kubernetes platforms, GitOps and Infrastructure-as-Code
+- **Platform Engineering:** multi-cluster Kubernetes platforms on-premise, GitOps and Infrastructure-as-Code
 - **Data Engineering:** ETL pipelines and data platform architecture
 - **Full-Stack Development:** web applications with Vue and TypeScript
 - **MLOps & AI:** ML platforms and applied AI
@@ -17,7 +17,7 @@ I design and run cloud-native platforms and data infrastructure, from the Kubern
 | Languages | Python · TypeScript · C++ · R |
 | Platform | Kubernetes · Terraform · Helm |
 | Data | PostgreSQL · Kafka · Airflow |
-| Cloud | AWS · Hetzner · STACKIT |
+| Infrastructure | On-premise · Hetzner (and other cloud providers) |
 
 ### 🤝 Contact
 
