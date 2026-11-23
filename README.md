@@ -4,7 +4,7 @@ Independent software consultant and cloud-native platform engineer in Karlsruhe,
 
 ### 🎯 What I do
 
-- **Platform Engineering:** multi-cluster Kubernetes platforms with ArgoCD, Helm and GitOps
+- **Platform Engineering:** multi-cluster Kubernetes platforms with GitOps and Infrastructure-as-Code
 - **Data Engineering:** ETL pipelines, data platform architecture, Apache Airflow
 - **Full-Stack Development:** web applications with Nuxt, Vue and TypeScript
 - **MLOps & AI:** ML platforms, model registries, on-device inference
@@ -17,7 +17,7 @@ Independent software consultant and cloud-native platform engineer in Karlsruhe,
 | Area | Tools |
 |---|---|
 | Languages | Python · TypeScript · C++ · R |
-| Platform | Kubernetes · ArgoCD · Helm · Terraform · Docker · Ansible |
+| Platform | Kubernetes · Helm · Terraform · Docker · Ansible |
 | Data | PostgreSQL · Kafka · Airflow · Elasticsearch · S3 / MinIO |
 | Cloud | AWS · Hetzner · STACKIT · Cloudflare |
 
