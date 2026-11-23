@@ -8,4 +8,4 @@ Currently: multi-cluster GitOps architectures and applied AI.
 
 **Stack:** Python · TypeScript · Kubernetes · ArgoCD · Helm · Terraform · Airflow · PostgreSQL · Kafka · AWS · Hetzner · STACKIT
 
-**Contact:** [semjon-geist.de](https://semjon-geist.de) · [LinkedIn](https://www.linkedin.com/in/semjon-geist-b58703175/) · [mail@semjon-geist.de](mailto:mail@semjon-geist.de)
+**Contact:** [semjon-geist.de](https://semjon-geist.de) · [LinkedIn](https://www.linkedin.com/in/semjon-geist-b58703175/) · [semjon.geist@chronolite.tech](mailto:semjon.geist@chronolite.tech)
