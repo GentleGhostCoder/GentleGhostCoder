@@ -7,7 +7,7 @@ I build sovereign platforms and data infrastructure on open-source stacks, mostl
 
 - **Platform Engineering:** multi-cluster Kubernetes platforms on-premise, GitOps and Infrastructure-as-Code
 - **Data Engineering:** ETL pipelines and data platform architecture
-- **Full-Stack Development:** web applications with Vue and TypeScript
+- **Full-Stack Development:** web applications with TypeScript
 - **MLOps & AI:** ML platforms and applied AI
 
 ### 🛠 Tech stack
