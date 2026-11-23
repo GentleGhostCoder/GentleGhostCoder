@@ -18,7 +18,7 @@ Independent software consultant and cloud-native platform engineer in Karlsruhe,
 |---|---|
 | Languages | Python · TypeScript · C++ · R |
 | Platform | Kubernetes · Helm · Terraform · Docker · Ansible |
-| Data | PostgreSQL · Kafka · Airflow · Elasticsearch · S3 / MinIO |
+| Data | PostgreSQL · Kafka · Airflow |
 | Cloud | AWS · Hetzner · STACKIT · Cloudflare |
 
 ### 🤝 Contact
